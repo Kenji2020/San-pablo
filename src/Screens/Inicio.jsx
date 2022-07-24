@@ -3,6 +3,7 @@ const Inicio = () => {
   return (
     <div className="container text-center bg-dark">
       <Carousel/>
+      hola uwu
     </div>
   )
 }
