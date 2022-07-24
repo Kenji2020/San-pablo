@@ -62,10 +62,10 @@ const Inicio = () => {
       </div>
       {/* botones */}
       <div className="bgBotones  text-center d-flex flex-md-row flex-column">
-        <button className=""><img src={preu} className="w-100" alt="enlace 1"/></button>
-        <button className=""><img src={preu} className="w-100" alt="enlace 1"/></button>
-        <button className=""><img src={preu} className="w-100" alt="enlace 1"/></button>
-        <button className=""><img src={preu} className="w-100" alt="enlace 1"/></button>
+        <button className="m-5"><img src={preu} className="w-100" alt="enlace 1"/></button>
+        <button className="m-5"><img src={preu} className="w-100" alt="enlace 1"/></button>
+        <button className="m-5"><img src={preu} className="w-100" alt="enlace 1"/></button>
+        <button className="m-5"><img src={preu} className="w-100" alt="enlace 1"/></button>
       </div>
     </>
   );
