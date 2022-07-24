@@ -1,7 +1,10 @@
-import React from 'react'
-
-export const Inicio = () => {
+import Carousel from "../Components/Carousel"
+const Inicio = () => {
   return (
-    <div>Inicio</div>
+    <div className="container text-center bg-dark">
+      <Carousel/>
+    </div>
   )
 }
+
+export default Inicio
