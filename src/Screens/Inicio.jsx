@@ -36,7 +36,7 @@ const Inicio = () => {
 
       {/* botones */}
       <div className="bgBotones  text-center d-flex flex-md-row flex-column">
-        <button className="w-20"><img src={preu} className=" 2-25" alt="enlace 1"/></button>
+        <button className="w-20"><img src={preu} className=" w-25" alt="enlace 1"/></button>
         <button className="w-20"><img src={preu} className=" w-25" alt="enlace 1"/></button>
         <button className="w-20"><img src={preu} className=" w-25" alt="enlace 1"/></button>
         <button className="w-25"><img src={preu} className=" w-25" alt="enlace 1"/></button>
