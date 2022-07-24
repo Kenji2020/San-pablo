@@ -1,3 +1,13 @@
+:root{
+  --bg-videos : #302D2D;
+  --bg-botones : #FAF3F3;
+}
+.bgVideos{
+  background-color: var(--bg-videos);
+}
+.bgBotones{
+  background-color: var(--bg-botones);
+}
 .App {
   text-align: center;
 }
