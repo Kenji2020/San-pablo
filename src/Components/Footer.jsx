@@ -1,5 +1,4 @@
 import React from 'react';
-import Select from 'react-select';
 import {
   MDBFooter,
   MDBContainer,
@@ -23,7 +22,7 @@ export const Footer = () => {
     }
 //Google maps no fue implementado por falta de presupuesto.
   return (
-    <MDBFooter className='text-lg-left bgFooter'>
+    <MDBFooter className='text-lg-left bgFooter '>
       <MDBContainer className='p-4'>
         <MDBRow>
           <MDBCol lg='3' md='6' className='mb-4 mb-md-0'>
