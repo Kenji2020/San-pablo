@@ -12,6 +12,7 @@ function App() {
         <Route path="/" element={<Inicio />} />
       </Routes>
       <Footer/>
+
     </>
   );
 }
